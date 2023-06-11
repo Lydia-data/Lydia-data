@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Lydia-data
 - 👀 I’m interested in data analytics
 - 🌱 I’m currently learning data analytics
-- 💞️ I’m looking to collaborate with Data Titans
+- 💞️ I’m looking to collaborate with https://github.com/Datafyde
 - 📫 How to reach me ulakalydia@gmail.com
 
 <!---
